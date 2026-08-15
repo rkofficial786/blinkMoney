@@ -1,0 +1,63 @@
+diff --git a/node_modules/react-native-worklets/android/build/intermediates/prefab_package_header_only/prefab_publication.json/debug b/node_modules/react-native-worklets/android/build/intermediates/prefab_package_header_only/prefab_publication.json/debug
+new file mode 100644
+index 0000000..cbee933
+--- /dev/null
++++ b/node_modules/react-native-worklets/android/build/intermediates/prefab_package_header_only/prefab_publication.json/debug
+@@ -0,0 +1,18 @@
++{
++  "installationFolder": "D:\\COURSES\\COURSE\\Web\\Projects\\blinkmoney\\BlinkMoneyWrapped\\node_modules\\react-native-worklets\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
++  "gradlePath": ":react-native-worklets",
++  "packageInfo": {
++    "packageName": "react-native-worklets",
++    "packageVersion": "0.11.4",
++    "packageSchemaVersion": 2,
++    "packageDependencies": [],
++    "modules": [
++      {
++        "moduleName": "worklets",
++        "moduleHeaders": "D:\\COURSES\\COURSE\\Web\\Projects\\blinkmoney\\BlinkMoneyWrapped\\node_modules\\react-native-worklets\\android\\build\\prefab-headers\\worklets",
++        "moduleExportLibraries": [],
++        "abis": []
++      }
++    ]
++  }
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-worklets/android/build/intermediates/prefab_package_header_only/prefab_publication.json/release b/node_modules/react-native-worklets/android/build/intermediates/prefab_package_header_only/prefab_publication.json/release
+new file mode 100644
+index 0000000..a48c852
+--- /dev/null
++++ b/node_modules/react-native-worklets/android/build/intermediates/prefab_package_header_only/prefab_publication.json/release
+@@ -0,0 +1,18 @@
++{
++  "installationFolder": "D:\\COURSES\\COURSE\\Web\\Projects\\blinkmoney\\BlinkMoneyWrapped\\node_modules\\react-native-worklets\\android\\build\\intermediates\\prefab_package\\release\\prefab",
++  "gradlePath": ":react-native-worklets",
++  "packageInfo": {
++    "packageName": "react-native-worklets",
++    "packageVersion": "0.11.4",
++    "packageSchemaVersion": 2,
++    "packageDependencies": [],
++    "modules": [
++      {
++        "moduleName": "worklets",
++        "moduleHeaders": "D:\\COURSES\\COURSE\\Web\\Projects\\blinkmoney\\BlinkMoneyWrapped\\node_modules\\react-native-worklets\\android\\build\\prefab-headers\\worklets",
++        "moduleExportLibraries": [],
++        "abis": []
++      }
++    ]
++  }
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-worklets/compatibility.json b/node_modules/react-native-worklets/compatibility.json
+index 199e53f..4b056de 100644
+--- a/node_modules/react-native-worklets/compatibility.json
++++ b/node_modules/react-native-worklets/compatibility.json
+@@ -3,7 +3,7 @@
+     "react-native": ["0.83", "0.84", "0.85", "0.86"]
+   },
+   "0.11.x": {
+-    "react-native": ["0.83", "0.84", "0.85", "0.86"]
++    "react-native": ["0.83", "0.84", "0.85", "0.86", "0.87"]
+   },
+   "0.10.x": {
+     "react-native": ["0.83", "0.84", "0.85", "0.86"]

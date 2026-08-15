@@ -1,0 +1,63 @@
+diff --git a/node_modules/react-native-reanimated/android/build/intermediates/prefab_package_header_only/prefab_publication.json/debug b/node_modules/react-native-reanimated/android/build/intermediates/prefab_package_header_only/prefab_publication.json/debug
+new file mode 100644
+index 0000000..842b9dd
+--- /dev/null
++++ b/node_modules/react-native-reanimated/android/build/intermediates/prefab_package_header_only/prefab_publication.json/debug
+@@ -0,0 +1,18 @@
++{
++  "installationFolder": "D:\\COURSES\\COURSE\\Web\\Projects\\blinkmoney\\BlinkMoneyWrapped\\node_modules\\react-native-reanimated\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
++  "gradlePath": ":react-native-reanimated",
++  "packageInfo": {
++    "packageName": "react-native-reanimated",
++    "packageVersion": "4.5.3",
++    "packageSchemaVersion": 2,
++    "packageDependencies": [],
++    "modules": [
++      {
++        "moduleName": "reanimated",
++        "moduleHeaders": "D:\\COURSES\\COURSE\\Web\\Projects\\blinkmoney\\BlinkMoneyWrapped\\node_modules\\react-native-reanimated\\android\\build\\prefab-headers\\reanimated",
++        "moduleExportLibraries": [],
++        "abis": []
++      }
++    ]
++  }
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-reanimated/android/build/intermediates/prefab_package_header_only/prefab_publication.json/release b/node_modules/react-native-reanimated/android/build/intermediates/prefab_package_header_only/prefab_publication.json/release
+new file mode 100644
+index 0000000..967517d
+--- /dev/null
++++ b/node_modules/react-native-reanimated/android/build/intermediates/prefab_package_header_only/prefab_publication.json/release
+@@ -0,0 +1,18 @@
++{
++  "installationFolder": "D:\\COURSES\\COURSE\\Web\\Projects\\blinkmoney\\BlinkMoneyWrapped\\node_modules\\react-native-reanimated\\android\\build\\intermediates\\prefab_package\\release\\prefab",
++  "gradlePath": ":react-native-reanimated",
++  "packageInfo": {
++    "packageName": "react-native-reanimated",
++    "packageVersion": "4.5.3",
++    "packageSchemaVersion": 2,
++    "packageDependencies": [],
++    "modules": [
++      {
++        "moduleName": "reanimated",
++        "moduleHeaders": "D:\\COURSES\\COURSE\\Web\\Projects\\blinkmoney\\BlinkMoneyWrapped\\node_modules\\react-native-reanimated\\android\\build\\prefab-headers\\reanimated",
++        "moduleExportLibraries": [],
++        "abis": []
++      }
++    ]
++  }
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-reanimated/compatibility.json b/node_modules/react-native-reanimated/compatibility.json
+index b6fe3ab..48b3487 100644
+--- a/node_modules/react-native-reanimated/compatibility.json
++++ b/node_modules/react-native-reanimated/compatibility.json
+@@ -5,7 +5,7 @@
+       "react-native-worklets": ["nightly"]
+     },
+     "4.5.x": {
+-      "react-native": ["0.83", "0.84", "0.85", "0.86"],
++      "react-native": ["0.83", "0.84", "0.85", "0.86", "0.87"],
+       "react-native-worklets": ["0.10.x", "0.11.x"]
+     },
+     "4.4.x": {
